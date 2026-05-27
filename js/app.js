@@ -148,27 +148,11 @@ loadComponents = async function(){
 };
 
 function checkPassword(){
+    document.getElementById("loginPage").style.display = "none";
 
-    const password =
-        document.getElementById("password").value;
+    document.getElementById("mainWebsite").style.display = "block";
 
-    const error =
-        document.getElementById("error");
-
-    if(password === SECRET_KEY){
-
-        document.getElementById("loginPage").style.display = "none";
-
-        document.getElementById("mainWebsite").style.display = "block";
-
-        loadComponents();
-
-    }
-    else{
-
-        error.style.display = "block";
-
-    }
+    loadComponents();
 }
 
 /* LOAD COMPONENTS */
