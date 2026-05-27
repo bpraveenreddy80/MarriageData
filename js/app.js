@@ -38,16 +38,16 @@ function toggleGallery(){
 
 const galleryImages = [
 
-    "/images/DSC_0802.JPG",
-     "/images/DSC_0746.JPG",
-    "/images/DSC_0814.JPG",
-    "/images/WhatsApp Image 2026-05-27 at 00.57.48 (1).jpeg",
-    "/images/WhatsApp Image 2026-05-27 at 00.57.48 (2).jpeg",
-    "/images/WhatsApp Image 2026-05-27 at 00.57.48 (3).jpeg",
-    "/images/WhatsApp Image 2026-05-27 at 00.57.48 (4).jpeg",
-    "/images/WhatsApp Image 2026-05-27 at 00.57.48 (5).jpeg",
-    "/images/WhatsApp Image 2026-05-27 at 00.57.48 (6).jpeg",
-    "/images/WhatsApp Image 2026-05-27 at 00.57.48 (7).jpeg",
+    "images/DSC_0802.JPG",
+     "images/DSC_0746.JPG",
+    "images/DSC_0814.JPG",
+    "images/WhatsApp Image 2026-05-27 at 00.57.48 (1).jpeg",
+    "images/WhatsApp Image 2026-05-27 at 00.57.48 (2).jpeg",
+    "images/WhatsApp Image 2026-05-27 at 00.57.48 (3).jpeg",
+    "images/WhatsApp Image 2026-05-27 at 00.57.48 (4).jpeg",
+    "images/WhatsApp Image 2026-05-27 at 00.57.48 (5).jpeg",
+    "images/WhatsApp Image 2026-05-27 at 00.57.48 (6).jpeg",
+    "images/WhatsApp Image 2026-05-27 at 00.57.48 (7).jpeg",
 
 ];
 
