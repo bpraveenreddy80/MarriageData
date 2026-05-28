@@ -170,7 +170,7 @@ async function loadComponents(){
 
     await loadComponent("header","components/header.html");
 
-    await loadComponent("about","components/about.html");
+    //await loadComponent("about","components/about.html");
 
     await loadComponent("personal","components/personal.html");
 
